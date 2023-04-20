@@ -1,4 +1,7 @@
-## <a style="color:orange">ModZilla Moderasyon Botu Komutları</a>
+## <a style="color:orange">ModZilla Moderasyon Botu</a>
+
+En yeni yeniliklere sahip bir moderasyon botu
+
 ---
 > Kullanıcı ile ilgili komutlar
 - rolal = <a style="color=darkblue">Belirtilen kullanıcıdan belirtilen rolü alır.</a>
@@ -13,3 +16,7 @@
 ---
 > Sunucu ile ilgili komutlar
 - sunucu = <a style="color=darkblue">Sunucu bilgilerini gösterir.</a>
+
+
+### Eklenecek Özellikler
+- Selamlama sistemi

@@ -19,7 +19,8 @@ Botu yazma sebebim kendime uygun ücretsiz özellikleri olan bir bot yazmak ve k
 ---
 #### Kurulum
 `.env` dosyası oluşturuyoruz ve içine
-```env
+
+```
 token=BOTUN_TOKENİ
 ``` şeklinde yazıyor ardından modülleri kuruyoruz.
 

@@ -8,9 +8,9 @@ Tüm komutlar eğik çizgi(slash commands) olarak geçer.
 > Botla ilgili bilgiler
 ```
 Botu yazma sebebim kendime uygun ücretsiz özellikleri olan bir bot yazmak ve kendimi geliştirmek istememdir.
+```
 ---
 > Bana destek olmak için Pull Request açabilir veya botu sunucunuza ekleyerek onaylatmama yardımcı olabilirsiniz.
-
 ### Eklenecek Özellikler
 - Selamlama sistemi ✅ (Eklendi !)
 

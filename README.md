@@ -3,20 +3,16 @@
 En yeni yeniliklere sahip bir moderasyon botu
 
 ---
-> Kullanıcı ile ilgili komutlar
-- rolal = <a style="color=darkblue">Belirtilen kullanıcıdan belirtilen rolü alır.</a>
-- rolver = <a style="color=darkblue">Belirtilen kullanıcıya belirtilen rolü verir.</a>
-- yasakla = <a style="color=darkblue">Belirtilen kullanıcıyı sunucudan yasaklar.</a>
-- at = <a style="color=darkblue">Belirtilen kullanıcıyı sunucudan atar.</a>
-- nuke = <a style="color=darkblue">Komutun kullanıldığı kanaldaki tüm mesajları temizler.</a>
-- avatar = <a style="color=darkblue">Belirtilen kullanıcının avatarını gösterir.</a>
+Tüm komutlar eğik çizgi(slash commands) olarak geçer.
 ---
-> Botla ilgili komutlar
-- ping = <a style="color=darkblue">Botun gecikmesini gösterir.</a>
+> Botla ilgili bilgiler
+```
+Botu yazma sebebim kendime uygun ücretsiz özellikleri olan bir bot yazmak ve kendimi geliştirmek istememdir.
 ---
-> Sunucu ile ilgili komutlar
-- sunucu = <a style="color=darkblue">Sunucu bilgilerini gösterir.</a>
-
+> Bana destek olmak için Pull Request açabilir veya botu sunucunuza ekleyerek onaylatmama yardımcı olabilirsiniz.
 
 ### Eklenecek Özellikler
-- Selamlama sistemi
+- Selamlama sistemi ✅ (Eklendi !)
+
+#### Kafamdaki Projeler !
+- Kayıt Botu

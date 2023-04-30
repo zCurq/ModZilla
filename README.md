@@ -18,11 +18,7 @@ Botu yazma sebebim kendime uygun ücretsiz özellikleri olan bir bot yazmak ve k
 - Kayıt Botu
 ---
 #### Kurulum
-`.env` dosyası oluşturuyoruz ve içine
-
-```
-token=BOTUN_TOKENİ
-``` şeklinde yazıyor ardından modülleri kuruyoruz.
+`.env` dosyası oluşturuyoruz ve içine `token=BOTUN_TOKENİ` şeklinde yazıyor ardından modülleri kuruyoruz.
 
 ```bash
 pip install -r requirements.txt

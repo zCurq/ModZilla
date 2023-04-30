@@ -32,5 +32,6 @@ class sunucu(commands.Cog):
         x.add_field(name=f":closed_lock_with_key:  Roller (**{str(roller)}**)",value="** **",inline=False)
 
         await interaction.send(embed=x)
+        
 def setup(bot):
     bot.add_cog(sunucu(bot))

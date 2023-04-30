@@ -22,6 +22,5 @@ class avatar(commands.Cog):
         except:
             await interaction.send(":pensive: **İşlem başarısız**\n> Bu komutu kullanabilmek için gerekli yetkiye sahip olmayabilirsin.\n> Bu komutu kullanmak için bota gerekli yetkiler verilmemiş olabilir.",ephemeral=True)
 
-
 def setup(bot):
     bot.add_cog(avatar(bot))

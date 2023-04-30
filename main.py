@@ -15,4 +15,9 @@ for modules in os.listdir("./modules"):
 async def on_ready():
     print(colorama.Back.GREEN + f"{bot.user} olarak giriş yaptım." + colorama.Back.RESET)
 
-bot.run(os.environ.get("token")) 
+@bot.event
+async def on_message(message):
+    if message.content.lower() == "zcurq":
+        await message.channel.send("zCurq adamdır aga !")
+
+bot.run(os.environ.get("token"))

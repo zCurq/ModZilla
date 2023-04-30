@@ -16,5 +16,6 @@ class ping(commands.Cog):
             colour=nextcord.Color.purple())
         
         await interaction.send(embed=x,ephemeral=False)
+        
 def setup(bot):
     bot.add_cog(ping(bot))
